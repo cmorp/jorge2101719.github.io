@@ -13,6 +13,10 @@ header {
     margin-bottom: 20%;
 }
 
+p1 {
+    background-color:rgba(0, 0, 0, 0.6);
+}
+
 #logos {
     width: 10%;
 }
